@@ -6,17 +6,15 @@
 
 ## How to create this repo
 
- 1. Fork then clone repo.
- 2. Run **cd empty; echo 'rvm use 2.5.5@ruby2.5-no-rails --create' > .rvmrc**
- 3. I added a README and LICENSE file.
- 4. I added 2 sorbet gems. 
+ 1. I added a README and LICENSE file.
+ 2. I added 2 sorbet gems. 
 ```
 gem 'sorbet', :group => :development
 gem 'sorbet-runtime'
 ```
- 5. I added 'dalli' and 'redis' gem to Gemfile to avoid "srb init" error messages. 
- 6. I ran "bundle" and fixed any Gemfile syntax issues.
- 7 Then to push to GitHub.
+ 3. I added 'dalli' and 'redis' gem to Gemfile to avoid "srb init" error messages. 
+ 4. I ran "bundle" and fixed any Gemfile syntax issues.
+ 5. Then to push to GitHub.
 
 ## How to know if you have a sane repo
 
