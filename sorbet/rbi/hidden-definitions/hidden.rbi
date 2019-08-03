@@ -5,8 +5,6 @@
 
 class Array
   include ::JSON::Ext::Generator::GeneratorMethods::Array
-  def append(*_); end
-
   def bsearch(); end
 
   def bsearch_index(); end
@@ -18,8 +16,6 @@ class Array
   def flatten!(*_); end
 
   def pack(*_); end
-
-  def prepend(*_); end
 
   def replace(_); end
 
@@ -7296,17 +7292,6 @@ class Thread
   def self.start(*_); end
 
   def self.stop(); end
-end
-
-class ThreadGroup
-  def add(_); end
-
-  def enclose(); end
-
-  def enclosed?(); end
-
-  def list(); end
-  Default = ::T.let(nil, ::T.untyped)
 end
 
 class TracePoint
