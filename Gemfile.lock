@@ -3,10 +3,10 @@ GEM
   specs:
     dalli (2.7.10)
     redis (4.1.2)
-    sorbet (0.4.4593)
-      sorbet-static (= 0.4.4593)
-    sorbet-runtime (0.4.4593)
-    sorbet-static (0.4.4593-universal-darwin-14)
+    sorbet (0.4.4596)
+      sorbet-static (= 0.4.4596)
+    sorbet-runtime (0.4.4596)
+    sorbet-static (0.4.4596-universal-darwin-14)
 
 PLATFORMS
   ruby
