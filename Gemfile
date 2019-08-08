@@ -4,5 +4,5 @@ ruby '2.6.3'
 
 gem 'sorbet', :group => :development
 gem 'sorbet-runtime'
-#gem 'dalli' # Needed by sorbet
-#gem 'redis' # Needed by sorbet
+gem 'dalli' # Needed by sorbet
+gem 'redis' # Needed by sorbet
