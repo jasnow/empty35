@@ -2041,10 +2041,6 @@ class Numeric
 
   def infinite?(); end
 
-  def negative?(); end
-
-  def positive?(); end
-
 end
 
 class Object
