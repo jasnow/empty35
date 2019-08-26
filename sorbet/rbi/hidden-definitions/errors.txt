@@ -131,7 +131,6 @@
 # wrong constant name <todo sym>
 # uninitialized constant Abbrev
 # uninitialized constant Abbrev
-# wrong constant name connect_internal
 # undefined method `[]$2' for class `Array'
 # undefined method `[]=$2' for class `Array'
 # undefined method `concat$1' for class `Array'
@@ -544,29 +543,6 @@
 # wrong constant name empty?
 # wrong constant name for
 # wrong constant name for_many
-# wrong constant name a
-# wrong constant name base
-# wrong constant name blockquote
-# wrong constant name caption
-# wrong constant name checkbox
-# wrong constant name checkbox_group
-# wrong constant name file_field
-# wrong constant name form
-# wrong constant name hidden
-# wrong constant name html
-# wrong constant name image_button
-# wrong constant name img
-# wrong constant name multipart_form
-# wrong constant name password_field
-# wrong constant name popup_menu
-# wrong constant name radio_button
-# wrong constant name radio_group
-# wrong constant name reset
-# wrong constant name scrolling_list
-# wrong constant name submit
-# wrong constant name text_field
-# wrong constant name textarea
-# wrong constant name <static-init>
 # uninitialized constant CSV
 # uninitialized constant CSV
 # uninitialized constant Chalk
@@ -1439,12 +1415,6 @@
 # wrong constant name each_object$2
 # wrong constant name garbage_collect
 # wrong constant name undefine_finalizer
-# wrong constant name indefinite_length
-# wrong constant name indefinite_length=
-# wrong constant name +@
-# wrong constant name -@
-# wrong constant name /
-# wrong constant name negative?
 # uninitialized constant OpenSSL::Digest::DSS
 # uninitialized constant OpenSSL::Digest::DSS
 # uninitialized constant OpenSSL::Digest::DSS1
@@ -1453,39 +1423,8 @@
 # Did you mean?  OpenSSL::Digest::SHA1
 # uninitialized constant OpenSSL::Digest::SHA
 # Did you mean?  OpenSSL::Digest::SHA1
-# wrong constant name <Class:KDFError>
-# wrong constant name <static-init>
-# wrong constant name <static-init>
-# wrong constant name hkdf
-# wrong constant name pbkdf2_hmac
-# wrong constant name scrypt
-# wrong constant name signed?
 # uninitialized constant OpenSSL::PKCS5::PKCS5Error
 # uninitialized constant OpenSSL::PKCS5::PKCS5Error
-# undefined method `to_bn$1' for class `OpenSSL::PKey::EC::Point'
-# wrong constant name to_bn$1
-# wrong constant name to_octet_string
-# wrong constant name sign_pss
-# wrong constant name verify_pss
-# wrong constant name add_certificate
-# wrong constant name alpn_protocols
-# wrong constant name alpn_protocols=
-# wrong constant name alpn_select_cb
-# wrong constant name alpn_select_cb=
-# wrong constant name enable_fallback_scsv
-# wrong constant name max_version=
-# wrong constant name min_version=
-# uninitialized constant OpenSSL::SSL::SSLSocket::BLOCK_SIZE
-# wrong constant name alpn_protocol
-# wrong constant name tmp_key
-# wrong constant name ==
-# wrong constant name ==
-# wrong constant name ==
-# wrong constant name to_utf8
-# wrong constant name ==
-# wrong constant name ==
-# wrong constant name to_der
-# wrong constant name fips_mode
 # uninitialized constant Opus
 # uninitialized constant Opus
 # uninitialized constant PP
@@ -1615,7 +1554,6 @@
 # wrong constant name expand
 # wrong constant name fire_update!
 # wrong constant name ruby
-# uninitialized constant Redis::Connection::Ruby::COMMAND_DELIMITER
 # undefined method `initialize$2' for class `Regexp'
 # Did you mean?  initialize
 # undefined method `match$1' for class `Regexp'
@@ -1691,55 +1629,6 @@
 # Did you mean?  SignalException
 # uninitialized constant Singleton
 # Did you mean?  SignalException
-# uninitialized constant Socket::APPEND
-# uninitialized constant Socket::BINARY
-# uninitialized constant Socket::CREAT
-# uninitialized constant Socket::DSYNC
-# Did you mean?  Socket::SYNC
-# uninitialized constant Socket::EXCL
-# uninitialized constant Socket::FNM_CASEFOLD
-# uninitialized constant Socket::FNM_DOTMATCH
-# uninitialized constant Socket::FNM_EXTGLOB
-# uninitialized constant Socket::FNM_NOESCAPE
-# uninitialized constant Socket::FNM_PATHNAME
-# uninitialized constant Socket::FNM_SHORTNAME
-# uninitialized constant Socket::FNM_SYSCASE
-# uninitialized constant Socket::LOCK_EX
-# Did you mean?  Socket::LOCK_NB
-#                Socket::LOCK_UN
-#                Socket::LOCK_SH
-# uninitialized constant Socket::LOCK_NB
-# Did you mean?  Socket::LOCK_UN
-#                Socket::LOCK_EX
-#                Socket::LOCK_SH
-# uninitialized constant Socket::LOCK_SH
-# Did you mean?  Socket::LOCK_NB
-#                Socket::LOCK_UN
-#                Socket::LOCK_EX
-# uninitialized constant Socket::LOCK_UN
-# Did you mean?  Socket::LOCK_NB
-#                Socket::LOCK_EX
-#                Socket::LOCK_SH
-# uninitialized constant Socket::NOCTTY
-# uninitialized constant Socket::NOFOLLOW
-# uninitialized constant Socket::NONBLOCK
-# uninitialized constant Socket::NULL
-# uninitialized constant Socket::RDONLY
-# Did you mean?  Socket::WRONLY
-# uninitialized constant Socket::RDWR
-# uninitialized constant Socket::SEEK_CUR
-# uninitialized constant Socket::SEEK_DATA
-# Did you mean?  Socket::SEEK_SET
-# uninitialized constant Socket::SEEK_END
-# uninitialized constant Socket::SEEK_HOLE
-# uninitialized constant Socket::SEEK_SET
-# uninitialized constant Socket::SHARE_DELETE
-# uninitialized constant Socket::SYNC
-# Did you mean?  Socket::DSYNC
-# uninitialized constant Socket::TRUNC
-# Did you mean?  TRUE
-# uninitialized constant Socket::WRONLY
-# Did you mean?  Socket::RDONLY
 # wrong constant name <Class:ConstantEntry>
 # wrong constant name all_module_aliases
 # wrong constant name all_module_names
@@ -2253,130 +2142,3 @@
 # uninitialized constant WEBrick
 # uninitialized constant WEBrick
 # wrong constant name warn
-# wrong constant name <Class:BufError>
-# wrong constant name <Class:DataError>
-# wrong constant name <Class:Deflate>
-# wrong constant name <Class:Error>
-# wrong constant name <Class:GzipFile>
-# wrong constant name <Class:GzipReader>
-# wrong constant name <Class:GzipWriter>
-# wrong constant name <Class:Inflate>
-# wrong constant name <Class:MemError>
-# wrong constant name <Class:NeedDict>
-# wrong constant name <Class:StreamEnd>
-# wrong constant name <Class:StreamError>
-# wrong constant name <Class:VersionError>
-# wrong constant name <Class:ZStream>
-# wrong constant name <static-init>
-# wrong constant name <static-init>
-# wrong constant name <<
-# wrong constant name deflate
-# wrong constant name flush
-# wrong constant name initialize
-# wrong constant name params
-# wrong constant name set_dictionary
-# wrong constant name <static-init>
-# wrong constant name deflate
-# wrong constant name <static-init>
-# wrong constant name <Class:CRCError>
-# wrong constant name <Class:Error>
-# wrong constant name <Class:LengthError>
-# wrong constant name <Class:NoFooter>
-# wrong constant name close
-# wrong constant name closed?
-# wrong constant name comment
-# wrong constant name crc
-# wrong constant name finish
-# wrong constant name level
-# wrong constant name mtime
-# wrong constant name orig_name
-# wrong constant name os_code
-# wrong constant name sync
-# wrong constant name sync=
-# wrong constant name to_io
-# wrong constant name <static-init>
-# wrong constant name input
-# wrong constant name <static-init>
-# wrong constant name <static-init>
-# wrong constant name <static-init>
-# wrong constant name <static-init>
-# wrong constant name wrap
-# uninitialized constant Zlib::GzipReader::Elem
-# wrong constant name bytes
-# wrong constant name each
-# wrong constant name each_byte
-# wrong constant name each_char
-# wrong constant name each_line
-# wrong constant name eof
-# wrong constant name eof?
-# wrong constant name external_encoding
-# wrong constant name getbyte
-# wrong constant name getc
-# wrong constant name initialize
-# wrong constant name lineno
-# wrong constant name lineno=
-# wrong constant name lines
-# wrong constant name pos
-# wrong constant name read
-# wrong constant name readbyte
-# wrong constant name readchar
-# wrong constant name readpartial
-# wrong constant name rewind
-# wrong constant name tell
-# wrong constant name ungetbyte
-# wrong constant name ungetc
-# wrong constant name unused
-# wrong constant name <static-init>
-# wrong constant name <<
-# wrong constant name comment=
-# wrong constant name flush
-# wrong constant name initialize
-# wrong constant name mtime=
-# wrong constant name orig_name=
-# wrong constant name pos
-# wrong constant name tell
-# wrong constant name write
-# wrong constant name <static-init>
-# wrong constant name <<
-# wrong constant name add_dictionary
-# wrong constant name inflate
-# wrong constant name initialize
-# wrong constant name set_dictionary
-# wrong constant name sync
-# wrong constant name sync_point?
-# wrong constant name <static-init>
-# wrong constant name inflate
-# wrong constant name <static-init>
-# wrong constant name <static-init>
-# wrong constant name <static-init>
-# wrong constant name <static-init>
-# wrong constant name <static-init>
-# wrong constant name adler
-# wrong constant name avail_in
-# wrong constant name avail_out
-# wrong constant name avail_out=
-# wrong constant name close
-# wrong constant name closed?
-# wrong constant name data_type
-# wrong constant name end
-# wrong constant name ended?
-# wrong constant name finish
-# wrong constant name finished?
-# wrong constant name flush_next_in
-# wrong constant name flush_next_out
-# wrong constant name reset
-# wrong constant name stream_end?
-# wrong constant name total_in
-# wrong constant name total_out
-# wrong constant name <static-init>
-# wrong constant name <static-init>
-# wrong constant name adler32
-# wrong constant name adler32_combine
-# wrong constant name crc32
-# wrong constant name crc32_combine
-# wrong constant name crc_table
-# wrong constant name deflate
-# wrong constant name gunzip
-# wrong constant name gzip
-# wrong constant name inflate
-# wrong constant name zlib_version
