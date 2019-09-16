@@ -2547,14 +2547,6 @@ class String
 
   def casecmp?(_); end
 
-  def delete_prefix(_); end
-
-  def delete_prefix!(_); end
-
-  def delete_suffix(_); end
-
-  def delete_suffix!(_); end
-
   def each_grapheme_cluster(); end
 
   def encode(*_); end
