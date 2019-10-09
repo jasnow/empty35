@@ -1216,8 +1216,6 @@
 # wrong constant name initialize
 # wrong constant name setup
 # wrong constant name result
-# wrong constant name +@
-# wrong constant name -@
 # wrong constant name []=
 # wrong constant name casecmp?
 # wrong constant name each_grapheme_cluster

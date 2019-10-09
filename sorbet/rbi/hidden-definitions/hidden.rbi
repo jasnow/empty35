@@ -2527,10 +2527,6 @@ end
 
 class String
   include ::JSON::Ext::Generator::GeneratorMethods::String
-  def +@(); end
-
-  def -@(); end
-
   def []=(*_); end
 
   def casecmp?(_); end
