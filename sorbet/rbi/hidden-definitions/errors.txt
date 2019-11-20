@@ -38,7 +38,6 @@
 # wrong constant name <RESERVED_123>
 # wrong constant name <RESERVED_124>
 # wrong constant name <RESERVED_125>
-# wrong constant name <RESERVED_126>
 # wrong constant name <RESERVED_12>
 # wrong constant name <RESERVED_13>
 # wrong constant name <RESERVED_14>
@@ -535,6 +534,715 @@
 # wrong constant name <static-init>
 # wrong constant name validate!
 # uninitialized constant Bundler::SpecSet::Elem
+# undefined method `help<defaultArg>1' for class `Bundler::Thor'
+# undefined method `help<defaultArg>2' for class `Bundler::Thor'
+# wrong constant name <Class:Actions>
+# wrong constant name <Class:AmbiguousCommandError>
+# wrong constant name <Class:Argument>
+# wrong constant name <Class:Arguments>
+# wrong constant name <Class:Base>
+# wrong constant name <Class:Command>
+# wrong constant name <Class:CoreExt>
+# wrong constant name <Class:DynamicCommand>
+# wrong constant name <Class:Error>
+# wrong constant name <Class:Group>
+# wrong constant name <Class:HiddenCommand>
+# wrong constant name <Class:Invocation>
+# wrong constant name <Class:InvocationError>
+# wrong constant name <Class:LineEditor>
+# wrong constant name <Class:MalformattedArgumentError>
+# wrong constant name <Class:NoKwargSpellChecker>
+# wrong constant name <Class:Option>
+# wrong constant name <Class:Options>
+# wrong constant name <Class:RequiredArgumentMissingError>
+# uninitialized constant Bundler::Thor::SHELL_DELEGATED_METHODS
+# wrong constant name <Class:Sandbox>
+# wrong constant name <Class:Shell>
+# wrong constant name <Class:UndefinedCommandError>
+# wrong constant name <Class:UnknownArgumentError>
+# wrong constant name <Class:Util>
+# wrong constant name help<defaultArg>1
+# wrong constant name help<defaultArg>2
+# wrong constant name help
+# undefined method `apply<defaultArg>1' for module `Bundler::Thor::Actions'
+# undefined method `chmod<defaultArg>1' for module `Bundler::Thor::Actions'
+# undefined method `empty_directory<defaultArg>1' for module `Bundler::Thor::Actions'
+# undefined method `initialize<defaultArg>1' for module `Bundler::Thor::Actions'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>2' for module `Bundler::Thor::Actions'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>3' for module `Bundler::Thor::Actions'
+# Did you mean?  initialize_dup
+# undefined method `inside<defaultArg>1' for module `Bundler::Thor::Actions'
+# undefined method `inside<defaultArg>2' for module `Bundler::Thor::Actions'
+# undefined method `relative_to_original_destination_root<defaultArg>1' for module `Bundler::Thor::Actions'
+# undefined method `remove_dir<defaultArg>1' for module `Bundler::Thor::Actions'
+# undefined method `remove_file<defaultArg>1' for module `Bundler::Thor::Actions'
+# undefined method `run<defaultArg>1' for module `Bundler::Thor::Actions'
+# undefined method `run_ruby_script<defaultArg>1' for module `Bundler::Thor::Actions'
+# wrong constant name <Class:CapturableERB>
+# wrong constant name <Class:ClassMethods>
+# wrong constant name <Class:CreateFile>
+# wrong constant name <Class:CreateLink>
+# wrong constant name <Class:Directory>
+# wrong constant name <Class:EmptyDirectory>
+# wrong constant name <Class:InjectIntoFile>
+# wrong constant name _cleanup_options_and_set
+# wrong constant name _shared_configuration
+# wrong constant name action
+# wrong constant name add_file
+# wrong constant name add_link
+# wrong constant name append_file
+# wrong constant name append_to_file
+# wrong constant name apply<defaultArg>1
+# wrong constant name apply
+# wrong constant name behavior
+# wrong constant name behavior=
+# wrong constant name chmod<defaultArg>1
+# wrong constant name chmod
+# wrong constant name comment_lines
+# wrong constant name copy_file
+# wrong constant name create_file
+# wrong constant name create_link
+# wrong constant name destination_root
+# wrong constant name destination_root=
+# wrong constant name directory
+# wrong constant name empty_directory<defaultArg>1
+# wrong constant name empty_directory
+# wrong constant name find_in_source_paths
+# wrong constant name get
+# wrong constant name gsub_file
+# wrong constant name in_root
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize<defaultArg>2
+# wrong constant name initialize<defaultArg>3
+# wrong constant name initialize
+# wrong constant name inject_into_class
+# wrong constant name inject_into_file
+# wrong constant name inject_into_module
+# wrong constant name insert_into_file
+# wrong constant name inside<defaultArg>1
+# wrong constant name inside<defaultArg>2
+# wrong constant name inside
+# wrong constant name link_file
+# wrong constant name prepend_file
+# wrong constant name prepend_to_file
+# wrong constant name relative_to_original_destination_root<defaultArg>1
+# wrong constant name relative_to_original_destination_root
+# wrong constant name remove_dir<defaultArg>1
+# wrong constant name remove_dir
+# wrong constant name remove_file<defaultArg>1
+# wrong constant name remove_file
+# wrong constant name run<defaultArg>1
+# wrong constant name run
+# wrong constant name run_ruby_script<defaultArg>1
+# wrong constant name run_ruby_script
+# wrong constant name source_paths
+# wrong constant name template
+# wrong constant name thor
+# wrong constant name uncomment_lines
+# uninitialized constant Bundler::Thor::Actions::CapturableERB::Revision
+# wrong constant name <static-init>
+# undefined method `source_root<defaultArg>1' for module `Bundler::Thor::Actions::ClassMethods'
+# wrong constant name add_runtime_options!
+# wrong constant name source_paths
+# wrong constant name source_paths_for_search
+# wrong constant name source_root<defaultArg>1
+# wrong constant name source_root
+# wrong constant name <static-init>
+# undefined method `initialize<defaultArg>1' for class `Bundler::Thor::Actions::CreateFile'
+# Did you mean?  initialize_dup
+# wrong constant name data
+# wrong constant name force_on_collision?
+# wrong constant name force_or_skip_or_conflict
+# wrong constant name identical?
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize
+# wrong constant name on_conflict_behavior
+# wrong constant name render
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# undefined method `initialize<defaultArg>1' for class `Bundler::Thor::Actions::Directory'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>2' for class `Bundler::Thor::Actions::Directory'
+# Did you mean?  initialize_dup
+# wrong constant name execute!
+# wrong constant name file_level_lookup
+# wrong constant name files
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize<defaultArg>2
+# wrong constant name initialize
+# wrong constant name source
+# wrong constant name <static-init>
+# undefined method `initialize<defaultArg>1' for class `Bundler::Thor::Actions::EmptyDirectory'
+# Did you mean?  initialize_dup
+# wrong constant name base
+# wrong constant name config
+# wrong constant name convert_encoded_instructions
+# wrong constant name destination
+# wrong constant name destination=
+# wrong constant name exists?
+# wrong constant name given_destination
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize
+# wrong constant name invoke!
+# wrong constant name invoke_with_conflict_check
+# wrong constant name on_conflict_behavior
+# wrong constant name on_file_clash_behavior
+# wrong constant name pretend?
+# wrong constant name relative_destination
+# wrong constant name revoke!
+# wrong constant name say_status
+# wrong constant name <static-init>
+# undefined method `say_status<defaultArg>1' for class `Bundler::Thor::Actions::InjectIntoFile'
+# undefined method `say_status<defaultArg>2' for class `Bundler::Thor::Actions::InjectIntoFile'
+# wrong constant name behavior
+# wrong constant name flag
+# wrong constant name initialize
+# wrong constant name replace!
+# wrong constant name replacement
+# wrong constant name say_status<defaultArg>1
+# wrong constant name say_status<defaultArg>2
+# wrong constant name say_status
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# wrong constant name included
+# wrong constant name <static-init>
+# undefined method `initialize<defaultArg>1' for class `Bundler::Thor::Argument'
+# Did you mean?  initialize_dup
+# wrong constant name banner
+# wrong constant name default
+# wrong constant name default_banner
+# wrong constant name description
+# wrong constant name enum
+# wrong constant name human_name
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize
+# wrong constant name name
+# wrong constant name required
+# wrong constant name required?
+# wrong constant name show_default?
+# wrong constant name type
+# wrong constant name usage
+# wrong constant name valid_type?
+# wrong constant name validate!
+# wrong constant name <static-init>
+# undefined method `initialize<defaultArg>1' for class `Bundler::Thor::Arguments'
+# Did you mean?  initialize_dup
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize
+# wrong constant name parse
+# wrong constant name remaining
+# wrong constant name <static-init>
+# wrong constant name parse
+# wrong constant name split
+# undefined method `initialize<defaultArg>1' for module `Bundler::Thor::Base'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>2' for module `Bundler::Thor::Base'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>3' for module `Bundler::Thor::Base'
+# Did you mean?  initialize_dup
+# wrong constant name <Class:ClassMethods>
+# wrong constant name args
+# wrong constant name args=
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize<defaultArg>2
+# wrong constant name initialize<defaultArg>3
+# wrong constant name initialize
+# wrong constant name options
+# wrong constant name options=
+# wrong constant name parent_options
+# wrong constant name parent_options=
+# undefined method `argument<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `class_option<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `class_options<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `class_options_help<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `from_superclass<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `group<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `handle_no_command_error<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `handle_no_task_error<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `namespace<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `print_options<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `start<defaultArg>1' for module `Bundler::Thor::Base::ClassMethods'
+# undefined method `start<defaultArg>2' for module `Bundler::Thor::Base::ClassMethods'
+# wrong constant name all_commands
+# wrong constant name all_tasks
+# wrong constant name argument<defaultArg>1
+# wrong constant name argument
+# wrong constant name arguments
+# wrong constant name attr_accessor
+# wrong constant name attr_reader
+# wrong constant name attr_writer
+# wrong constant name baseclass
+# wrong constant name basename
+# wrong constant name build_option
+# wrong constant name build_options
+# wrong constant name check_default_type
+# wrong constant name check_default_type!
+# wrong constant name check_default_type?
+# wrong constant name check_unknown_options
+# wrong constant name check_unknown_options!
+# wrong constant name check_unknown_options?
+# wrong constant name class_option<defaultArg>1
+# wrong constant name class_option
+# wrong constant name class_options<defaultArg>1
+# wrong constant name class_options
+# wrong constant name class_options_help<defaultArg>1
+# wrong constant name class_options_help
+# wrong constant name commands
+# wrong constant name create_command
+# wrong constant name create_task
+# wrong constant name disable_required_check?
+# wrong constant name dispatch
+# wrong constant name exit_on_failure?
+# wrong constant name find_and_refresh_command
+# wrong constant name find_and_refresh_task
+# wrong constant name from_superclass<defaultArg>1
+# wrong constant name from_superclass
+# wrong constant name group<defaultArg>1
+# wrong constant name group
+# wrong constant name handle_argument_error
+# wrong constant name handle_no_command_error<defaultArg>1
+# wrong constant name handle_no_command_error
+# wrong constant name handle_no_task_error<defaultArg>1
+# wrong constant name handle_no_task_error
+# wrong constant name inherited
+# wrong constant name initialize_added
+# wrong constant name is_thor_reserved_word?
+# wrong constant name method_added
+# wrong constant name namespace<defaultArg>1
+# wrong constant name namespace
+# wrong constant name no_commands
+# wrong constant name no_tasks
+# wrong constant name print_options<defaultArg>1
+# wrong constant name print_options
+# wrong constant name public_command
+# wrong constant name public_task
+# wrong constant name remove_argument
+# wrong constant name remove_class_option
+# wrong constant name remove_command
+# wrong constant name remove_task
+# wrong constant name start<defaultArg>1
+# wrong constant name start<defaultArg>2
+# wrong constant name start
+# wrong constant name stop_on_unknown_option?
+# wrong constant name strict_args_position
+# wrong constant name strict_args_position!
+# wrong constant name strict_args_position?
+# wrong constant name tasks
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# wrong constant name included
+# wrong constant name register_klass_file
+# wrong constant name shell
+# wrong constant name shell=
+# wrong constant name subclass_files
+# wrong constant name subclasses
+# undefined method `formatted_usage<defaultArg>1' for class `Bundler::Thor::Command'
+# undefined method `formatted_usage<defaultArg>2' for class `Bundler::Thor::Command'
+# undefined method `initialize<defaultArg>1' for class `Bundler::Thor::Command'
+# Did you mean?  initialize_dup
+# undefined method `run<defaultArg>1' for class `Bundler::Thor::Command'
+# wrong constant name formatted_usage<defaultArg>1
+# wrong constant name formatted_usage<defaultArg>2
+# wrong constant name formatted_usage
+# wrong constant name handle_argument_error?
+# wrong constant name handle_no_method_error?
+# wrong constant name hidden?
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize
+# wrong constant name local_method?
+# wrong constant name not_debugging?
+# wrong constant name private_method?
+# wrong constant name public_method?
+# wrong constant name required_arguments_for
+# wrong constant name required_options
+# wrong constant name run<defaultArg>1
+# wrong constant name run
+# wrong constant name sans_backtrace
+# wrong constant name <static-init>
+# wrong constant name <Class:HashWithIndifferentAccess>
+# undefined method `initialize<defaultArg>1' for class `Bundler::Thor::CoreExt::HashWithIndifferentAccess'
+# Did you mean?  initialize_dup
+# uninitialized constant Bundler::Thor::CoreExt::HashWithIndifferentAccess::Elem
+# uninitialized constant Bundler::Thor::CoreExt::HashWithIndifferentAccess::K
+# uninitialized constant Bundler::Thor::CoreExt::HashWithIndifferentAccess::V
+# wrong constant name []
+# wrong constant name []=
+# wrong constant name convert_key
+# wrong constant name delete
+# wrong constant name fetch
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize
+# wrong constant name key?
+# wrong constant name merge
+# wrong constant name merge!
+# wrong constant name method_missing
+# wrong constant name replace
+# wrong constant name reverse_merge
+# wrong constant name reverse_merge!
+# wrong constant name values_at
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# undefined method `initialize<defaultArg>1' for class `Bundler::Thor::DynamicCommand'
+# Did you mean?  initialize_dup
+# uninitialized constant Bundler::Thor::DynamicCommand::FILE_REGEXP
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# undefined method `_invoke_for_class_method<defaultArg>1' for class `Bundler::Thor::Group'
+# uninitialized constant Bundler::Thor::Group::SHELL_DELEGATED_METHODS
+# Did you mean?  Bundler::Thor::SHELL_DELEGATED_METHODS
+# wrong constant name _invoke_for_class_method<defaultArg>1
+# wrong constant name _invoke_for_class_method
+# undefined singleton method `desc<defaultArg>1' for `Bundler::Thor::Group'
+# wrong constant name <static-init>
+# wrong constant name banner
+# wrong constant name desc<defaultArg>1
+# wrong constant name desc
+# wrong constant name get_options_from_invocations
+# wrong constant name handle_argument_error
+# wrong constant name help
+# wrong constant name invocation_blocks
+# wrong constant name invocations
+# wrong constant name invoke
+# wrong constant name invoke_from_option
+# wrong constant name printable_commands
+# wrong constant name printable_tasks
+# wrong constant name remove_invocation
+# wrong constant name self_command
+# wrong constant name self_task
+# uninitialized constant Bundler::Thor::HiddenCommand::FILE_REGEXP
+# wrong constant name <static-init>
+# undefined method `_retrieve_class_and_command<defaultArg>1' for module `Bundler::Thor::Invocation'
+# undefined method `_retrieve_class_and_task<defaultArg>1' for module `Bundler::Thor::Invocation'
+# undefined method `initialize<defaultArg>1' for module `Bundler::Thor::Invocation'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>2' for module `Bundler::Thor::Invocation'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>3' for module `Bundler::Thor::Invocation'
+# Did you mean?  initialize_dup
+# undefined method `invoke<defaultArg>1' for module `Bundler::Thor::Invocation'
+# wrong constant name <Class:ClassMethods>
+# wrong constant name _parse_initialization_options
+# wrong constant name _retrieve_class_and_command<defaultArg>1
+# wrong constant name _retrieve_class_and_command
+# wrong constant name _retrieve_class_and_task<defaultArg>1
+# wrong constant name _retrieve_class_and_task
+# wrong constant name _shared_configuration
+# wrong constant name current_command_chain
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize<defaultArg>2
+# wrong constant name initialize<defaultArg>3
+# wrong constant name initialize
+# wrong constant name invoke<defaultArg>1
+# wrong constant name invoke
+# wrong constant name invoke_all
+# wrong constant name invoke_command
+# wrong constant name invoke_task
+# wrong constant name invoke_with_padding
+# wrong constant name prepare_for_invocation
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# wrong constant name included
+# wrong constant name <static-init>
+# wrong constant name <Class:Basic>
+# wrong constant name <Class:Readline>
+# wrong constant name initialize
+# wrong constant name options
+# wrong constant name prompt
+# wrong constant name readline
+# wrong constant name <static-init>
+# wrong constant name available?
+# wrong constant name <Class:PathCompletion>
+# wrong constant name initialize
+# wrong constant name matches
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# undefined singleton method `readline<defaultArg>1' for `Bundler::Thor::LineEditor'
+# wrong constant name <static-init>
+# wrong constant name best_available
+# wrong constant name readline<defaultArg>1
+# wrong constant name readline
+# wrong constant name <static-init>
+# wrong constant name initialize
+# wrong constant name <static-init>
+# undefined method `usage<defaultArg>1' for class `Bundler::Thor::Option'
+# wrong constant name aliases
+# wrong constant name array?
+# wrong constant name boolean?
+# wrong constant name dasherize
+# wrong constant name dasherized?
+# wrong constant name group
+# wrong constant name hash?
+# wrong constant name hide
+# wrong constant name lazy_default
+# wrong constant name numeric?
+# wrong constant name repeatable
+# wrong constant name string?
+# wrong constant name switch_name
+# wrong constant name undasherize
+# wrong constant name usage<defaultArg>1
+# wrong constant name usage
+# wrong constant name validate_default_type!
+# wrong constant name <static-init>
+# wrong constant name parse
+# undefined method `initialize<defaultArg>1' for class `Bundler::Thor::Options'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>2' for class `Bundler::Thor::Options'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>3' for class `Bundler::Thor::Options'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>4' for class `Bundler::Thor::Options'
+# Did you mean?  initialize_dup
+# uninitialized constant Bundler::Thor::Options::NUMERIC
+# Did you mean?  Numeric
+# wrong constant name assign_result!
+# wrong constant name check_unknown!
+# wrong constant name current_is_switch?
+# wrong constant name current_is_switch_formatted?
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize<defaultArg>2
+# wrong constant name initialize<defaultArg>3
+# wrong constant name initialize<defaultArg>4
+# wrong constant name initialize
+# wrong constant name normalize_switch
+# wrong constant name parse_boolean
+# wrong constant name parse_peek
+# wrong constant name parsing_options?
+# wrong constant name switch?
+# wrong constant name switch_option
+# wrong constant name <static-init>
+# wrong constant name to_switches
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# undefined method `initialize<defaultArg>1' for module `Bundler::Thor::Shell'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>2' for module `Bundler::Thor::Shell'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>3' for module `Bundler::Thor::Shell'
+# Did you mean?  initialize_dup
+# wrong constant name <Class:Basic>
+# wrong constant name <Class:Color>
+# wrong constant name <Class:HTML>
+# wrong constant name _shared_configuration
+# wrong constant name ask
+# wrong constant name error
+# wrong constant name file_collision
+# wrong constant name initialize<defaultArg>1
+# wrong constant name initialize<defaultArg>2
+# wrong constant name initialize<defaultArg>3
+# wrong constant name initialize
+# wrong constant name no?
+# wrong constant name print_in_columns
+# wrong constant name print_table
+# wrong constant name print_wrapped
+# wrong constant name say
+# wrong constant name say_status
+# wrong constant name set_color
+# wrong constant name shell
+# wrong constant name shell=
+# wrong constant name terminal_width
+# wrong constant name with_padding
+# wrong constant name yes?
+# undefined method `indent<defaultArg>1' for class `Bundler::Thor::Shell::Basic'
+# undefined method `no?<defaultArg>1' for class `Bundler::Thor::Shell::Basic'
+# undefined method `print_table<defaultArg>1' for class `Bundler::Thor::Shell::Basic'
+# undefined method `print_wrapped<defaultArg>1' for class `Bundler::Thor::Shell::Basic'
+# undefined method `say<defaultArg>1' for class `Bundler::Thor::Shell::Basic'
+# undefined method `say<defaultArg>2' for class `Bundler::Thor::Shell::Basic'
+# undefined method `say<defaultArg>3' for class `Bundler::Thor::Shell::Basic'
+# undefined method `say_status<defaultArg>1' for class `Bundler::Thor::Shell::Basic'
+# undefined method `yes?<defaultArg>1' for class `Bundler::Thor::Shell::Basic'
+# wrong constant name as_unicode
+# wrong constant name ask
+# wrong constant name ask_filtered
+# wrong constant name ask_simply
+# wrong constant name base
+# wrong constant name base=
+# wrong constant name can_display_colors?
+# wrong constant name dynamic_width
+# wrong constant name dynamic_width_stty
+# wrong constant name dynamic_width_tput
+# wrong constant name error
+# wrong constant name file_collision
+# wrong constant name file_collision_help
+# wrong constant name git_merge_tool
+# wrong constant name indent<defaultArg>1
+# wrong constant name indent
+# wrong constant name is?
+# wrong constant name lookup_color
+# wrong constant name merge
+# wrong constant name merge_tool
+# wrong constant name mute
+# wrong constant name mute?
+# wrong constant name no?<defaultArg>1
+# wrong constant name no?
+# wrong constant name padding
+# wrong constant name padding=
+# wrong constant name prepare_message
+# wrong constant name print_in_columns
+# wrong constant name print_table<defaultArg>1
+# wrong constant name print_table
+# wrong constant name print_wrapped<defaultArg>1
+# wrong constant name print_wrapped
+# wrong constant name quiet?
+# wrong constant name say<defaultArg>1
+# wrong constant name say<defaultArg>2
+# wrong constant name say<defaultArg>3
+# wrong constant name say
+# wrong constant name say_status<defaultArg>1
+# wrong constant name say_status
+# wrong constant name set_color
+# wrong constant name show_diff
+# wrong constant name stderr
+# wrong constant name stdout
+# wrong constant name terminal_width
+# wrong constant name truncate
+# wrong constant name unix?
+# wrong constant name yes?<defaultArg>1
+# wrong constant name yes?
+# wrong constant name <static-init>
+# uninitialized constant Bundler::Thor::Shell::Color::DEFAULT_TERMINAL_WIDTH
+# wrong constant name are_colors_disabled?
+# wrong constant name diff_lcs_loaded?
+# wrong constant name output_diff_line
+# wrong constant name set_color
+# wrong constant name <static-init>
+# undefined method `ask<defaultArg>1' for class `Bundler::Thor::Shell::HTML'
+# uninitialized constant Bundler::Thor::Shell::HTML::DEFAULT_TERMINAL_WIDTH
+# wrong constant name ask<defaultArg>1
+# wrong constant name ask
+# wrong constant name diff_lcs_loaded?
+# wrong constant name output_diff_line
+# wrong constant name set_color
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# wrong constant name <Class:SpellChecker>
+# wrong constant name all_commands
+# wrong constant name command
+# wrong constant name initialize
+# wrong constant name corrections
+# wrong constant name error
+# wrong constant name initialize
+# wrong constant name spell_checker
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# wrong constant name <Class:SpellChecker>
+# wrong constant name initialize
+# wrong constant name switches
+# wrong constant name unknown
+# wrong constant name corrections
+# wrong constant name error
+# wrong constant name initialize
+# wrong constant name spell_checker
+# wrong constant name <static-init>
+# wrong constant name <static-init>
+# undefined singleton method `find_class_and_command_by_namespace<defaultArg>1' for `Bundler::Thor::Util'
+# undefined singleton method `find_class_and_task_by_namespace<defaultArg>1' for `Bundler::Thor::Util'
+# undefined singleton method `load_thorfile<defaultArg>1' for `Bundler::Thor::Util'
+# undefined singleton method `load_thorfile<defaultArg>2' for `Bundler::Thor::Util'
+# undefined singleton method `namespaces_in_content<defaultArg>1' for `Bundler::Thor::Util'
+# wrong constant name <static-init>
+# wrong constant name camel_case
+# wrong constant name escape_globs
+# wrong constant name find_by_namespace
+# wrong constant name find_class_and_command_by_namespace<defaultArg>1
+# wrong constant name find_class_and_command_by_namespace
+# wrong constant name find_class_and_task_by_namespace<defaultArg>1
+# wrong constant name find_class_and_task_by_namespace
+# wrong constant name globs_for
+# wrong constant name load_thorfile<defaultArg>1
+# wrong constant name load_thorfile<defaultArg>2
+# wrong constant name load_thorfile
+# wrong constant name namespace_from_thor_class
+# wrong constant name namespaces_in_content<defaultArg>1
+# wrong constant name namespaces_in_content
+# wrong constant name ruby_command
+# wrong constant name snake_case
+# wrong constant name thor_classes_in
+# wrong constant name thor_root
+# wrong constant name thor_root_glob
+# wrong constant name user_home
+# undefined singleton method `banner<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `banner<defaultArg>2' for `Bundler::Thor'
+# undefined singleton method `check_unknown_options!<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `default_command<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `default_task<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `desc<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `help<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `long_desc<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `map<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `method_option<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `method_options<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `option<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `options<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `package_name<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `printable_commands<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `printable_commands<defaultArg>2' for `Bundler::Thor'
+# undefined singleton method `printable_tasks<defaultArg>1' for `Bundler::Thor'
+# undefined singleton method `printable_tasks<defaultArg>2' for `Bundler::Thor'
+# undefined singleton method `register<defaultArg>1' for `Bundler::Thor'
+# wrong constant name <static-init>
+# wrong constant name banner<defaultArg>1
+# wrong constant name banner<defaultArg>2
+# wrong constant name banner
+# wrong constant name check_unknown_options!<defaultArg>1
+# wrong constant name check_unknown_options!
+# wrong constant name command_help
+# wrong constant name default_command<defaultArg>1
+# wrong constant name default_command
+# wrong constant name default_task<defaultArg>1
+# wrong constant name default_task
+# wrong constant name desc<defaultArg>1
+# wrong constant name desc
+# wrong constant name disable_required_check
+# wrong constant name disable_required_check!
+# wrong constant name disable_required_check?
+# wrong constant name dispatch
+# wrong constant name dynamic_command_class
+# wrong constant name find_command_possibilities
+# wrong constant name find_task_possibilities
+# wrong constant name help<defaultArg>1
+# wrong constant name help
+# wrong constant name long_desc<defaultArg>1
+# wrong constant name long_desc
+# wrong constant name map<defaultArg>1
+# wrong constant name map
+# wrong constant name method_option<defaultArg>1
+# wrong constant name method_option
+# wrong constant name method_options<defaultArg>1
+# wrong constant name method_options
+# wrong constant name normalize_command_name
+# wrong constant name normalize_task_name
+# wrong constant name option<defaultArg>1
+# wrong constant name option
+# wrong constant name options<defaultArg>1
+# wrong constant name options
+# wrong constant name package_name<defaultArg>1
+# wrong constant name package_name
+# wrong constant name printable_commands<defaultArg>1
+# wrong constant name printable_commands<defaultArg>2
+# wrong constant name printable_commands
+# wrong constant name printable_tasks<defaultArg>1
+# wrong constant name printable_tasks<defaultArg>2
+# wrong constant name printable_tasks
+# wrong constant name register<defaultArg>1
+# wrong constant name register
+# wrong constant name retrieve_command_name
+# wrong constant name retrieve_task_name
+# wrong constant name stop_on_unknown_option
+# wrong constant name stop_on_unknown_option!
+# wrong constant name stop_on_unknown_option?
+# wrong constant name subcommand
+# wrong constant name subcommand_classes
+# wrong constant name subcommand_help
+# wrong constant name subcommands
+# wrong constant name subtask
+# wrong constant name subtask_help
+# wrong constant name subtasks
+# wrong constant name task_help
 # undefined method `confirm<defaultArg>1' for class `Bundler::UI::Shell'
 # undefined method `debug<defaultArg>1' for class `Bundler::UI::Shell'
 # undefined method `error<defaultArg>1' for class `Bundler::UI::Shell'
@@ -695,6 +1403,19 @@
 # wrong constant name exists?
 # wrong constant name mktmpdir<defaultArg>1
 # wrong constant name tmpdir
+# undefined method `def_method<defaultArg>1' for class `ERB'
+# undefined method `def_module<defaultArg>1' for class `ERB'
+# undefined method `initialize<defaultArg>4' for class `ERB'
+# Did you mean?  initialize_dup
+# undefined method `initialize<defaultArg>5' for class `ERB'
+# Did you mean?  initialize_dup
+# wrong constant name def_method<defaultArg>1
+# wrong constant name def_method
+# wrong constant name def_module<defaultArg>1
+# wrong constant name def_module
+# wrong constant name initialize<defaultArg>4
+# wrong constant name initialize<defaultArg>5
+# wrong constant name result_with_hash
 # wrong constant name _dump
 # wrong constant name convert
 # wrong constant name convpath
@@ -795,10 +1516,10 @@
 # wrong constant name name=
 # wrong constant name passwd
 # wrong constant name passwd=
-# uninitialized constant Etc::Group::Elem
 # wrong constant name []
 # wrong constant name each
 # wrong constant name members
+# wrong constant name <Class:Group>
 # wrong constant name change
 # wrong constant name change=
 # wrong constant name dir
@@ -819,10 +1540,10 @@
 # wrong constant name uclass=
 # wrong constant name uid
 # wrong constant name uid=
-# uninitialized constant Etc::Passwd::Elem
 # wrong constant name []
 # wrong constant name each
 # wrong constant name members
+# wrong constant name <Class:Passwd>
 # wrong constant name full_message
 # wrong constant name exception
 # wrong constant name to_tty?
@@ -855,6 +1576,7 @@
 # wrong constant name verify_compaction_references
 # wrong constant name verify_internal_consistency
 # wrong constant name verify_transient_heap_internal_consistency
+# wrong constant name <Class:S3URISigner>
 # wrong constant name _deprecated_default_specifications_dir
 # undefined method `deprecate_option<defaultArg>1' for class `Gem::Command'
 # Did you mean?  deprecate_constant
@@ -923,7 +1645,6 @@
 # uninitialized constant Gem::Specification::GENERIC_CACHE
 # wrong constant name _deprecated_rubyforge_project=
 # undefined singleton method `default_stubs<defaultArg>1' for `Gem::Specification'
-# uninitialized constant Gem::Specification::Elem
 # wrong constant name default_stubs<defaultArg>1
 # wrong constant name default_stubs
 # wrong constant name correct_for_windows_path
@@ -1532,6 +2253,7 @@
 # wrong constant name to_h
 # wrong constant name values
 # wrong constant name values_at
+# wrong constant name <Class:Struct>
 # wrong constant name errno
 # wrong constant name status
 # wrong constant name success?
@@ -1598,8 +2320,8 @@
 # uninitialized constant URI::File::RFC3986_PARSER
 # Did you mean?  URI::File::RFC3986_Parser
 #                URI::RFC3986_Parser
-#                URI::RFC2396_Parser
 #                URI::File::RFC2396_Parser
+#                URI::RFC2396_Parser
 #                URI::RFC3986_PARSER
 # uninitialized constant URI::File::SCHEME
 # Did you mean?  URI::SCHEME
