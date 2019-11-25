@@ -35,9 +35,6 @@
 # wrong constant name <RESERVED_120>
 # wrong constant name <RESERVED_121>
 # wrong constant name <RESERVED_122>
-# wrong constant name <RESERVED_123>
-# wrong constant name <RESERVED_124>
-# wrong constant name <RESERVED_125>
 # wrong constant name <RESERVED_12>
 # wrong constant name <RESERVED_13>
 # wrong constant name <RESERVED_14>
@@ -145,6 +142,7 @@
 # wrong constant name <todo sym>
 # uninitialized constant Abbrev
 # uninitialized constant Abbrev
+# undefined method `pack<defaultArg>1' for class `Array'
 # wrong constant name bsearch
 # wrong constant name bsearch_index
 # wrong constant name collect!
@@ -153,6 +151,7 @@
 # wrong constant name filter!
 # wrong constant name flatten!
 # wrong constant name intersection
+# wrong constant name pack<defaultArg>1
 # wrong constant name pack
 # wrong constant name replace
 # wrong constant name shelljoin
@@ -1569,9 +1568,21 @@
 # uninitialized constant Forwardable
 # wrong constant name receiver
 # wrong constant name <static-init>
+# undefined method `garbage_collect<defaultArg>1' for module `GC'
+# undefined method `garbage_collect<defaultArg>2' for module `GC'
+# undefined method `garbage_collect<defaultArg>3' for module `GC'
+# wrong constant name garbage_collect<defaultArg>1
+# wrong constant name garbage_collect<defaultArg>2
+# wrong constant name garbage_collect<defaultArg>3
 # wrong constant name garbage_collect
+# undefined singleton method `latest_gc_info<defaultArg>1' for `GC'
+# undefined singleton method `start<defaultArg>3' for `GC'
+# undefined singleton method `stat<defaultArg>1' for `GC'
 # wrong constant name compact
+# wrong constant name latest_gc_info<defaultArg>1
 # wrong constant name latest_gc_info
+# wrong constant name start<defaultArg>3
+# wrong constant name stat<defaultArg>1
 # wrong constant name stress=
 # wrong constant name verify_compaction_references
 # wrong constant name verify_internal_consistency
@@ -1886,8 +1897,14 @@
 # wrong constant name length
 # wrong constant name size
 # wrong constant name values
+# undefined singleton method `garbage_collect<defaultArg>1' for `ObjectSpace'
+# undefined singleton method `garbage_collect<defaultArg>2' for `ObjectSpace'
+# undefined singleton method `garbage_collect<defaultArg>3' for `ObjectSpace'
 # wrong constant name count_objects
 # wrong constant name define_finalizer
+# wrong constant name garbage_collect<defaultArg>1
+# wrong constant name garbage_collect<defaultArg>2
+# wrong constant name garbage_collect<defaultArg>3
 # wrong constant name garbage_collect
 # wrong constant name undefine_finalizer
 # uninitialized constant OpenSSL::Digest::DSS
@@ -2242,6 +2259,7 @@
 # wrong constant name []
 # wrong constant name []=
 # wrong constant name deconstruct
+# wrong constant name deconstruct_keys
 # wrong constant name dig
 # wrong constant name each_pair
 # wrong constant name filter
@@ -2265,7 +2283,6 @@
 # undefined method `enable<defaultArg>1' for class `TracePoint'
 # undefined method `enable<defaultArg>2' for class `TracePoint'
 # undefined method `enable<defaultArg>3' for class `TracePoint'
-# wrong constant name __enable
 # wrong constant name enable<defaultArg>1
 # wrong constant name enable<defaultArg>2
 # wrong constant name enable<defaultArg>3
@@ -2273,6 +2290,8 @@
 # wrong constant name event
 # wrong constant name instruction_sequence
 # wrong constant name parameters
+# wrong constant name stat
+# wrong constant name new
 # wrong constant name <Class:File>
 # wrong constant name decode
 # wrong constant name encode
@@ -2320,8 +2339,8 @@
 # uninitialized constant URI::File::RFC3986_PARSER
 # Did you mean?  URI::File::RFC3986_Parser
 #                URI::RFC3986_Parser
-#                URI::File::RFC2396_Parser
 #                URI::RFC2396_Parser
+#                URI::File::RFC2396_Parser
 #                URI::RFC3986_PARSER
 # uninitialized constant URI::File::SCHEME
 # Did you mean?  URI::SCHEME

@@ -21,7 +21,7 @@ class Array
 
   def intersection(*_); end
 
-  def pack(*_); end
+  def pack(fmt, buffer: T.unsafe(nil)); end
 
   def replace(_); end
 
@@ -2559,15 +2559,15 @@ class FrozenError
 end
 
 module GC
-  def garbage_collect(*_); end
+  def garbage_collect(full_mark: T.unsafe(nil), immediate_mark: T.unsafe(nil), immediate_sweep: T.unsafe(nil)); end
 end
 
 module GC
   def self.compact(); end
 
-  def self.latest_gc_info(*_); end
+  def self.latest_gc_info(hash_or_key=T.unsafe(nil)); end
 
-  def self.stress=(stress); end
+  def self.stress=(flag); end
 
   def self.verify_compaction_references(*_); end
 
@@ -3162,7 +3162,7 @@ module ObjectSpace
 
   def self.define_finalizer(*_); end
 
-  def self.garbage_collect(*_); end
+  def self.garbage_collect(full_mark: T.unsafe(nil), immediate_mark: T.unsafe(nil), immediate_sweep: T.unsafe(nil)); end
 
   def self.undefine_finalizer(_); end
 end
@@ -3287,11 +3287,11 @@ class RubyVM::AbstractSyntaxTree::Node
 end
 
 module RubyVM::AbstractSyntaxTree
-  def self.of(_); end
+  def self.of(body); end
 
-  def self.parse(_); end
+  def self.parse(string); end
 
-  def self.parse_file(_); end
+  def self.parse_file(pathname); end
 end
 
 class RubyVM::InstructionSequence
@@ -3829,7 +3829,7 @@ class String
 
   def unicode_normalized?(*_); end
 
-  def unpack1(_); end
+  def unpack1(fmt); end
 end
 
 class String
@@ -3842,6 +3842,8 @@ class Struct
   def []=(_, _1); end
 
   def deconstruct(); end
+
+  def deconstruct_keys(_); end
 
   def dig(*_); end
 
@@ -3889,8 +3891,6 @@ class Time
 end
 
 class TracePoint
-  def __enable(_, _1, _2); end
-
   def eval_script(); end
 
   def event(); end
@@ -3898,6 +3898,12 @@ class TracePoint
   def instruction_sequence(); end
 
   def parameters(); end
+
+  def stat(); end
+end
+
+class TracePoint
+  def self.new(*events); end
 end
 
 class TrueClass
