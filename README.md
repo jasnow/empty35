@@ -1,6 +1,6 @@
 # README
 
-* Ruby version: 3.1.x (latest)
+* Ruby version: 3.2.x (latest)
 
 * Rails version: None
 
