@@ -10,7 +10,7 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    parser (3.2.0.0)
+    parser (3.2.1.0)
       ast (~> 2.4.1)
     pastel (0.8.0)
       tty-color (~> 0.5)
@@ -54,7 +54,7 @@ GEM
       tty-screen (~> 0.8)
     unicode-display_width (2.4.2)
     unicode_utils (1.4.0)
-    zeitwerk (2.6.6)
+    zeitwerk (2.6.7)
 
 PLATFORMS
   x86_64-darwin-16
