@@ -25,9 +25,6 @@ jobs:
       - name: 
         run: bin/rails db:schema:load
 
-      - name:
-        run: echo "::notice This repo does not have tests"
-
   lint:
     runs-on: ubuntu-latest
     
