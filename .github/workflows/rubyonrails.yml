@@ -25,6 +25,9 @@ jobs:
       - name: 
         run: bin/rails db:schema:load
 
+      - name:
+        run: bin/rake
+
   lint:
     runs-on: ubuntu-latest
     
