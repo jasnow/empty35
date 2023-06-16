@@ -15,7 +15,7 @@ GEM
       racc
     pastel (0.8.0)
       tty-color (~> 0.5)
-    racc (1.7.0)
+    racc (1.7.1)
     ruby_audit (2.2.0)
       bundler-audit (~> 0.9.0)
     ruby_parser (3.20.2)
