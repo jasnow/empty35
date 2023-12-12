@@ -6,7 +6,7 @@ GEM
       bundler (>= 1.2.0, < 3)
       thor (~> 1.0)
     erubi (1.12.0)
-    haml (6.2.4)
+    haml (6.3.0)
       temple (>= 0.8.2)
       thor
       tilt
@@ -68,7 +68,7 @@ DEPENDENCIES
   spektr
 
 RUBY VERSION
-   ruby 3.3.0.preview2
+   ruby 3.3.0.rc1
 
 BUNDLED WITH
    2.5.0.dev
