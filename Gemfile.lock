@@ -10,7 +10,7 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    parser (3.3.0.0)
+    parser (3.3.0.2)
       ast (~> 2.4.1)
       racc
     pastel (0.8.0)
