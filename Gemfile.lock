@@ -57,7 +57,7 @@ GEM
       tty-screen (~> 0.8)
     unicode-display_width (2.5.0)
     unicode_utils (1.4.0)
-    zeitwerk (2.6.12)
+    zeitwerk (2.6.13)
 
 PLATFORMS
   ruby
@@ -72,4 +72,4 @@ RUBY VERSION
    ruby 3.3.0p0
 
 BUNDLED WITH
-   2.5.5
+   2.5.6
