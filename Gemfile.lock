@@ -10,7 +10,7 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    parser (3.3.3.0)
+    parser (3.3.4.0)
       ast (~> 2.4.1)
       racc
     pastel (0.8.0)
@@ -18,10 +18,10 @@ GEM
     racc (1.8.0)
     ruby_audit (2.3.1)
       bundler-audit (~> 0.9.0)
-    ruby_parser (3.21.0)
+    ruby_parser (3.21.1)
       racc (~> 1.5)
       sexp_processor (~> 4.16)
-    sexp_processor (4.17.1)
+    sexp_processor (4.17.2)
     slim (5.2.1)
       temple (~> 0.10.0)
       tilt (>= 2.1.0)
@@ -72,4 +72,4 @@ RUBY VERSION
    ruby 3.3.3p89
 
 BUNDLED WITH
-   2.5.14
+   2.5.15
