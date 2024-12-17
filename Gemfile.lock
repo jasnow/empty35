@@ -69,7 +69,7 @@ DEPENDENCIES
   spektr
 
 RUBY VERSION
-   ruby 3.4.0.preview2
+   ruby 3.4.0.rc1
 
 BUNDLED WITH
-   2.6.0.dev
+   2.6.0
