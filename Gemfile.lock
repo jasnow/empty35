@@ -6,7 +6,7 @@ GEM
       bundler (>= 1.2.0, < 3)
       thor (~> 1.0)
     erubi (1.13.1)
-    haml (6.3.0)
+    haml (7.0.1)
       temple (>= 0.8.2)
       thor
       tilt
